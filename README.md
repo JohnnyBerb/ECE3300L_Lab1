@@ -7,4 +7,4 @@ Lab Memebrs:
   
  Link to Demo Video: https://youtu.be/hb94X4aKRB4
  
- 
+ Diagram: ![Diagram](Diagram.jpg)
